@@ -48,7 +48,7 @@ h6 {
   background-color: #f7f7f7;
 }
 .bg-darkest-gray {
-  background-color: #222;
+  background-color: #444;
 }
 .btn-primary {
   color: white;
@@ -142,11 +142,11 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-default {
-  background-color: #222;
+  background-color: #444;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: #93311E;
+  color: white;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
@@ -211,7 +211,7 @@ fieldset[disabled] .btn-xl.active {
     border-radius: 3px;
   }
   .navbar-default.navbar-shrink {
-    background-color: #222;
+    background-color: #444;
     padding: 10px 0;
   }
   .navbar-default.navbar-shrink .navbar-brand {
@@ -222,7 +222,7 @@ header {
   background-image: url('../img/header-bg.jpg');
   background-repeat: none;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: top center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -547,7 +547,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222;
+  background-color: #444;
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
@@ -623,7 +623,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #222;
+  background-color: #444;
   height: 40px;
   width: 40px;
   border-radius: 100%;
@@ -692,7 +692,7 @@ ul.social-buttons li a:active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #222;
+  background-color: #444;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -703,7 +703,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #222;
+  background-color: #444;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
